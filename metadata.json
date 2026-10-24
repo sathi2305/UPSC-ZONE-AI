@@ -1,0 +1,6 @@
+{
+  "name": "UPSC ZONE AI — Intelligent UPSC Preparation Platform",
+  "description": "Transform your UPSC Civil Services preparation with AI study copilot, Prelims exam simulator, Mains writing studio, current affairs intelligence, and adaptive planners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
